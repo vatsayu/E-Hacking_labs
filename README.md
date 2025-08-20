@@ -8,7 +8,9 @@
 
  • Write-ups on CTF (Capture The Flag) challenges, penetration testing, and cybersecurity tools.
 
-• Notes and resources on topics like:
+
+ Notes and resources on topics like:
+
   
    • Network scanning and enumeration.
 
